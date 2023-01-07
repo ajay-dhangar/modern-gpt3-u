@@ -35,9 +35,9 @@ const Footer = () => (
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Get in touch</h4>
-        <p>Crechterwoord K12 182 DK Alknjkcb</p>
-        <p>085-132567</p>
-        <p>info@payme.net</p>
+        <p>Mandsaur, Madhya Pradesh, India</p>
+        <p>+91 7024592105</p>
+        <p>ajaydhangar49@gmail.com</p>
       </div>
     </div>
 
